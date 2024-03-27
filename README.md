@@ -1,7 +1,6 @@
 # padisease
 deteksi penyakit pada tanaman padi🌾
 
-link web ujicoba: http://152.42.198.66/
-
+link aplikasi web: http://152.42.198.66/
 tampilan website
-![image](https://github.com/entsanerga/padisease/assets/101909253/b54f4146-296b-41b2-92bb-9621e69c1ace)
+![image](https://github.com/entsanerga/padisease/assets/101909253/bc4a31a9-e6ad-40a8-8246-ac7c8f6b69f3)
