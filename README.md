@@ -1,6 +1,11 @@
 # padisease
 deteksi penyakit pada tanaman padi🌾
 
+NOTE:
+pada aplikasi ini, user dapat mendeteksi penyakit padi dengan memasukkan gambar daun padi yang rusak. output akan tampil ketika user menekan "deteksi penyakit".
+
+
+_______________________________________________________
 link aplikasi web: http://152.42.198.66/
 
 tampilan website
