@@ -15,4 +15,4 @@ tampilan website
 info:
 - model yang digunakan untuk mendeteksi penyakit pada padi menggunakan YOLOv8
 - dengan interface menggunakan streamlit
-- fitur "webcam" dapat diaktifkan secaara lokal
+- fitur "webcam" dapat diaktifkan secara lokal
